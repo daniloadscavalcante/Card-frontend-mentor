@@ -124,8 +124,13 @@ p{
     }
     .description__number p{        
         margin-bottom: 15px;       
-    }    
-    
+    }  
+    .img::before{       
+        border-radius: 7px 7px 0px 0px;  
+    }  
+    .img img{
+        border-radius: 7px 7px 0px 0px;   
+     }    
 }
 @media only screen and (max-width: 320px){
     .attribution{
