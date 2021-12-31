@@ -3,8 +3,8 @@
 ###  :open_book:  Sobre o projeto
 
  Desafio da plataforma Frontend Mentor, cartão de visualização de statistica. Desenvolvido com flexbox.
- 
-#### Link do desafio: 
+ #### Link - desafio concluido https://card-frontendmentor2.netlify.app/
+#### Link do desafio frontend mentor: 
 https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62  
   
 
